@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... gaming, anime, coding
 - 🌱 I’m currently learning ... skool shit
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ...
+- 📫 How to reach me ... discord: @mothfaze ... email: mothfaze@gmail.com
 - 😄 Pronouns: ... any idc
 - ⚡ Fun fact: ... i exist
 
