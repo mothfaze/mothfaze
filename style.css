@@ -1,6 +1,11 @@
-<body style="background-color:cyan;">
-                 <a href="https://lomando.com/main.html">
-                <img src="https://i.imgur.com/b0iwD2v.png"
-    height=300 width=500>
-    </a>
-<br>
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertical center */
+  align-items: center;     /* horizontal center */
+}
